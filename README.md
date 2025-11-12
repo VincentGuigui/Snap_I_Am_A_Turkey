@@ -4,6 +4,7 @@ A Snapchat Lens to be a turkey for Thanksgiving
 # Screenshots
 <img src="publish/screenshot1.jpg" height="300"/>
 <img src="publish/screenshot2.jpg" height="300"/>
+
 [Click for demo video](preview.mp4)
 
 # Credits for the 3D meshes
