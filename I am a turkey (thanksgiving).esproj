@@ -12,7 +12,8 @@ metaInfo:
   hints:
     []
   tags:
-    []
+    - RDQLS25
+    - TSGLS25
   lensName: I am a turkey
   lensDescriptors:
     []
@@ -24,7 +25,7 @@ metaInfo:
     - Web
   platformBundlesEnabled: false
   iconHash: 63b7630b6b1c72d9a6b0b7385a83a749
-  videoPreviewHash: 354d49a14b5442eb248bc6685caca848
+  videoPreviewHash: 7fc07e280ce5424308d9e65131c43cb6
   fromTemplateName: Default
   fromTemplateUrl: Lens Studio 5.15.0.25101318
   activationCamera: Front
