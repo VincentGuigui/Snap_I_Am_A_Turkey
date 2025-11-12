@@ -1,0 +1,1219 @@
+- !<AssetImportMetadata/7175f8a4-a547-4387-ba17-e4cc691e35e9>
+  ImportedAssetIds:
+    .hidden/Material: !<reference> bc07c046-ff8e-45e9-adb1-fdc254961437
+    0b2bf5ca834b02bb: !<reference> 1b80a6b7-bc25-4cfb-a9fb-6acd7d1b0585
+    10397d542004350c: !<reference> 5af96c8b-03a8-4456-8100-47588dcdeeca
+    10e9dd7329b31e65: !<reference> 947ccd9e-7a6c-48d1-a433-41332fdcd9cb
+    14ac5cb42d9ee40a: !<reference> 7f58e259-dcb7-4864-8aad-ca787fd22b05
+    14d231c822977deb: !<reference> 9ae5c488-c669-4b7f-b5c0-657a71d65798
+    169164de004e918f: !<reference> 97e38ce4-c36b-4d0a-80e3-37946527dd90
+    1d1878e5d5a8c5bc: !<reference> afb4ab77-7f4e-4b08-9d21-11d307af143f
+    1db9d8fc75dfd1af: !<reference> 772d4885-3d9a-45ff-95a5-199fbf926e0c
+    2022aa64f83eacfd: !<reference> 00b1840d-fb29-4202-b55d-4ec56c82f365
+    210d37713b0716ef: !<reference> a274cc3f-37dc-41cc-b3e0-818a025b56a7
+    22b6ae71c171c30d: !<reference> b60bbe43-c362-4032-9626-5c65c26a94df
+    2bf34aee060ca5cf: !<reference> 444ee7a1-4280-49a0-b6d1-012a655cd923
+    30ede561336df2e0: !<reference> 9ccca59e-d299-4f05-be7c-3c4d82a1c3e6
+    37024313ccaecb86: !<reference> 26f3f496-8633-4645-a5c5-c56b78c2b486
+    3d523be08495163f: !<reference> 909a9e0f-2944-481e-85b0-c35c546b77c1
+    40c9371b93bab4cc: !<reference> 32dee7db-e3b4-42bc-ac2a-cc2be563b943
+    4a70cbf6d18e747d: !<reference> bf57ca32-a155-43ad-850d-d596bade604e
+    4d49b3882b6f17bd: !<reference> e1f9a4ce-5642-4165-b084-38756548f095
+    4f2bac115e9ada57: !<reference> 75cb17b0-7365-45ba-9c64-f50123f7368a
+    4fb6e319af9a4829: !<reference> 82393a10-8cad-4c6f-aba8-0d30214d3ae1
+    598f2c9e74061f2c: !<reference> 118ea1bf-99d1-4cc4-a635-13e81d8ea127
+    5a3158aab9544fea: !<reference> 2553973e-835f-4526-9336-48ace20d09dc
+    5b65ca98bcc607db: !<reference> c38ea9a3-3323-49c4-8fb0-6fe5a0590e6b
+    5bf16f52f5ed9117: !<reference> 188f4aef-52b1-44c2-9015-65b58c394a51
+    5e25d3ada010d290: !<reference> 5dde5adf-43d0-4b13-b3eb-943dc47aa023
+    61f1e00a244439d0: !<reference> 6c51fceb-e412-4142-8c65-148296ed54f8
+    6219d73ae8e2a78e: !<reference> 83d13159-2348-416e-ae29-9ada2a3584d2
+    624f6792bd6e379e: !<reference> aec647b9-3bd5-4436-8b07-95d00a032af1
+    62d884a4433ae4ae: !<reference> 0b667ccc-4e6a-485d-b313-ac3db27eaf2a
+    70904da355e42905: !<reference> adeaa6e2-b81f-499f-b743-9cedd355b016
+    718dc4c515a02b73: !<reference> b7511b79-547e-411f-b552-b8403fc21e07
+    762ab76807e5e2e8: !<reference> 7a4ea522-ad01-4d9f-a2fc-24ff1fe62a36
+    76d79746ad2d5660: !<reference> de80b09d-0c18-4a9b-835f-720d74a7459c
+    77d4a88e99c933af: !<reference> 509f16f6-f56e-433b-9274-a80a893385cf
+    7a0dd5cd69df73fa: !<reference> 0fbcb1d2-c527-4d89-a16e-c78c6e1e43bc
+    7c8fda37def2728a: !<reference> 2d7eeb6a-0caa-4c19-b9f0-1ae7fd820f89
+    7e3cc4acde8f3595: !<reference> 6e254a1d-9d44-4ad2-9af7-188c8c596102
+    7fa66bfb31bb5caf: !<reference> 4ce13d47-bded-47f3-b371-1f3fa6e21f84
+    83437620bbb97154: !<reference> 2971a027-5fa2-425a-aced-2eb6d7e62d3a
+    836554558f1ca498: !<reference> 80429861-c33a-46ac-8536-a84b9f6f2494
+    8c0e255595b86aff: !<reference> 9d3c5ee2-9ea1-427e-954c-e7c5ffa83eca
+    9b677ba10f8f803a: !<reference> 523d4132-ef83-4fab-9f71-a31338ecd02e
+    9cf5497d3092aba3: !<reference> eccc9935-e463-4c99-8952-6653850d5527
+    9f5a05bf38fb6062: !<reference> 4c3fe653-2c73-4d36-b19a-a33ebd8459af
+    Animations/Animation: !<reference> 7451ce70-9c3c-41a9-bbee-87cbec50b361
+    Materials/Material: !<reference> 8b9acf15-2b1a-4568-9939-7a76710cc608
+    Materials/Material.001: !<reference> 50c91237-9d27-4939-a86e-d2388e96940c
+    Materials/Material.001|Material.001|GraphPassInfo: !<reference> a836dd47-f4b0-49c1-a042-29b96e885714
+    Materials/Material.002: !<reference> c07b5582-ab9e-4622-91b3-4214c75596cc
+    Materials/Material.002|Material.002|GraphPassInfo: !<reference> ad928fdb-331e-45a3-ac1d-cccc8024ff43
+    Materials/Material|Material|GraphPassInfo: !<reference> bfb6acd5-8665-48e2-a648-970780149385
+    Meshes/Object_1: !<reference> 7bd6faed-6aa0-474e-b70a-1ff4add0bff4
+    Meshes/Object_2: !<reference> ba3482aa-e4b6-4176-85cb-9c68ed569534
+    Meshes/mesh_0: !<reference> b97e6c27-40e2-4c07-867f-a25565a78ee1
+    Scene: !<reference> 5e8f3d00-dd71-43a7-97ae-933eb15e9149
+    Textures/texture: !<reference> 04b9109e-54bb-4ab4-b142-30d32eb5e532
+    a041aa9e917494ac: !<reference> 5d2baabd-47ab-4272-801a-00d7f0b1f22c
+    a2a50db4441f07f8: !<reference> 188adfca-aa82-4e9a-a302-b9378d4c4613
+    a48562814375af67: !<reference> a7dac849-67be-43e4-9af5-81f9d3360e62
+    a77b6af7883d6fd5: !<reference> ea063f82-36f2-4d47-b90e-c6e57ea86c37
+    ac69cffb094ed144: !<reference> 8c16b61d-d156-4ce7-a251-8bfffdd0d61a
+    ad98aa12a6485c8e: !<reference> 0e0bfcc4-a18a-4db9-8c66-1ba95cd66761
+    ae89e8703bee7368: !<reference> 570c7561-9f19-4bb3-a929-5433a80cc17d
+    b14005f6e9ea5a05: !<reference> 46698524-008c-410b-81ce-70d4fb965711
+    bbaf8637f4f5c924: !<reference> 3cf8bbc6-ad39-497e-b116-5e94e6d247f6
+    be8323d4d95ceca5: !<reference> 18d84557-c5c6-4e1a-b683-0b70e3661064
+    c267eb53a63b246a: !<reference> 530b3554-8fc2-467b-a5b8-3e4f3c81c9dc
+    c6fcef09d93f667b: !<reference> 86768f77-d8f3-44a1-ba88-cc33771afcad
+    da589d37000e17e0: !<reference> 6f9d3821-3a42-4ade-82be-c864a53c1d7d
+    df5ae26bbd0d40f7: !<reference> b0b9643e-8239-4bbf-80f5-062504a40444
+    e530744fdf7875cd: !<reference> 1e263ae1-b3cc-42a8-8839-7e56a6a68785
+    e6686fda9de2432f: !<reference> eed959cf-c73e-4cc6-a026-e9023ec4dd51
+    ea4eb4d8a67d00fe: !<reference> 9b3bd14f-865e-46dd-913c-27aa8c4bfbe6
+    ef7da4651fb1aff9: !<reference> c9edfd90-4526-488f-9b42-3ee300da2b1d
+    ef97fa6f6b9165d9: !<reference> def6ef97-1735-487f-bd78-42ec54f84f41
+    f992d80273de8639: !<reference> 4c565ec6-c759-4fd8-973c-2337b160443a
+    fa11b83c6ee4a01a: !<reference> 9b378433-8c9a-4750-8830-64efbd7c24ce
+    fb5dbdb8199039f9: !<reference> 8c51ff7f-1720-4331-9517-f92945c3484e
+    fc3a9e3e149b457e: !<reference> aa259620-33ae-41cf-aaf3-8bb637123c55
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 5e8f3d00-dd71-43a7-97ae-933eb15e9149
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> ccc95123-14cc-4047-b0a0-f618d712ea39
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionMipmapSettings>
+          Level: Medium
+          Mipmap: false
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/00b1840d-fb29-4202-4aa2-b13a937d0c9a>
+  PrefabRemaps:
+    []
+  Name: Chicken_Chest_01_02SHJnt_36
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.013278, y: 0.081175, z: 0.000000}
+    Rotation: {x: 172.405350, y: 90.000000, z: -172.056519}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2553973e-835f-4526-6cc9-b7531df2f623
+  Components:
+    []
+- !<SceneObject/0b667ccc-4e6a-485d-4cec-53c24d8150d5>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Leg_AnkleSHJnt_19
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.001829, y: 0.063834, z: -0.000014}
+    Rotation: {x: 90.406364, y: 17.616558, z: 91.831139}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 26f3f496-8633-4645-5a3a-3a94873d4b79
+    - !<own> a274cc3f-37dc-41cc-4c1f-7e75fda4a958
+    - !<own> 118ea1bf-99d1-4cc4-59ca-ec17e2715ed8
+  Components:
+    []
+- !<SceneObject/0e0bfcc4-a18a-4db9-7399-e456a329989e>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Toe_01_03SHJnt_2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.023592, z: -0.000000}
+    Rotation: {x: -4.786079, y: 0.000023, z: -0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/0fbcb1d2-c527-4d89-5e91-387391e1bc43>
+  PrefabRemaps:
+    []
+  Name: turkeyHD
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> aec647b9-3bd5-4436-74f8-6a2ff5fcd50e
+  Components:
+    []
+- !<SceneObject/118ea1bf-99d1-4cc4-59ca-ec17e2715ed8>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Toe_02_01SHJnt_18
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.011414, y: 0.011378, z: 0.005736}
+    Rotation: {x: 136.601471, y: 0.000161, z: 179.999969}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 523d4132-ef83-4fab-608e-5cecc7132fd1
+  Components:
+    []
+- !<SceneObject/188adfca-aa82-4e9a-5cfd-46c872b3b9ec>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt.004_28
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.017110, z: -0.000000}
+    Rotation: {x: 5.133646, y: -20.508356, z: 6.641682}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> afb4ab77-7f4e-4b08-62de-ee2cf850ebc0
+  Components:
+    []
+- !<SceneObject/188f4aef-52b1-44c2-6fea-9a4a73c6b5ae>
+  PrefabRemaps:
+    []
+  Name: GLTF_created_0_rootJoint
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8c51ff7f-1720-4331-6ae8-06d6ba3cb7b1
+    - !<own> 86768f77-d8f3-44a1-4577-33cc88e50352
+  Components:
+    []
+- !<SceneObject/18d84557-c5c6-4e1a-497c-f48f1c99ef9b>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Leg_KneeSHJnt_20
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.084438, z: 0.000000}
+    Rotation: {x: 27.253540, y: 0.437927, z: -4.694510}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0b667ccc-4e6a-485d-4cec-53c24d8150d5
+  Components:
+    []
+- !<SceneObject/1b80a6b7-bc25-4cfb-5604-953282e4fa7a>
+  PrefabRemaps:
+    []
+  Name: GLTF_SceneRootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 32dee7db-e3b4-42bc-53d5-33d41a9c46bc
+  Components:
+    []
+- !<SceneObject/1e263ae1-b3cc-42a8-77c6-81a95959787a>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Leg_HipSHJnt_21
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.006618, y: 0.119531, z: -0.049606}
+    Rotation: {x: 90.008865, y: 87.004082, z: 99.646355}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 18d84557-c5c6-4e1a-497c-f48f1c99ef9b
+  Components:
+    []
+- !<SceneObject/2553973e-835f-4526-6cc9-b7531df2f623>
+  PrefabRemaps:
+    []
+  Name: Chicken_Chest_01_03SHJnt_35
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.090537, z: 0.000555}
+    Rotation: {x: -90.000069, y: -43.838264, z: 90.000130}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b7511b79-547e-411f-4aad-47bfc03de1f8
+  Components:
+    []
+- !<SceneObject/26f3f496-8633-4645-5a3a-3a94873d4b79>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Leg_BallSHJnt_12
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.020545, y: 0.038787, z: 0.000000}
+    Rotation: {x: -175.614807, y: -90.000000, z: 175.614777}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 444ee7a1-4280-49a0-492e-fed59aa326dc
+  Components:
+    []
+- !<SceneObject/2971a027-5fa2-425a-5312-d1492819d2c5>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 4.187680, y: 4.187680, z: 4.187680}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 909a9e0f-2944-481e-7a4f-3ca3ab94883e
+  Components:
+    []
+- !<SceneObject/2d7eeb6a-0caa-4c19-460f-e518027df076>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt.006_44
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.098164, z: -0.000000}
+    Rotation: {x: 6.352283, y: -4.499264, z: 70.591339}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 46698524-008c-410b-7e31-8f2b0469a8ee
+  Components:
+    []
+- !<SceneObject/32dee7db-e3b4-42bc-53d5-33d41a9c46bc>
+  PrefabRemaps:
+    []
+  Name: turkey_50
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8c16b61d-d156-4ce7-5dae-7400022f29e5
+  Components:
+    []
+- !<SceneObject/3cf8bbc6-ad39-497e-4ee9-a16b192db809>
+  PrefabRemaps:
+    []
+  Name: Chicken_Head_JawSHJnt_25
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.013283, y: 0.047279, z: -0.000000}
+    Rotation: {x: -44.975143, y: 90.000000, z: -59.450943}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/444ee7a1-4280-49a0-492e-fed59aa326dc>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Leg_ToeSHJnt_11
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.032163, z: -0.000000}
+    Rotation: {x: -0.000000, y: 0.000019, z: -0.000013}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/46698524-008c-410b-7e31-8f2b0469a8ee>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt.008_43
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.078474, z: -0.000000}
+    Rotation: {x: -2.718138, y: 0.275013, z: 11.552586}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4c3fe653-2c73-4d36-4e65-5cc1427ba650
+  Components:
+    []
+- !<SceneObject/4c3fe653-2c73-4d36-4e65-5cc1427ba650>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt.009_42
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.100212, z: 0.000000}
+    Rotation: {x: -6.995540, y: 1.939156, z: 30.952755}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/4c565ec6-c759-4fd8-68c3-dcc84e9fbbc5>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Leg_KneeSHJnt_9
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.084322, z: 0.000000}
+    Rotation: {x: 30.443882, y: 0.000021, z: 0.000023}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b60bbe43-c362-4032-69d9-a39a3d956b20
+  Components:
+    []
+- !<SceneObject/4ce13d47-bded-47f3-4c8e-e0c0591de07b>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Leg_BallSHJnt_1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.025383, y: 0.048171, z: -0.002510}
+    Rotation: {x: -146.238525, y: -89.980217, z: 146.238525}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 570c7561-9f19-4bb3-56d6-abcc57f33e82
+  Components:
+    []
+- !<SceneObject/509f16f6-f56e-433b-6d8b-57f576cc7a30>
+  PrefabRemaps:
+    []
+  Name: Chicken_Tail_01_01SHJnt_24
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.012170, y: 0.066718, z: 0.000003}
+    Rotation: {x: -0.000513, y: 0.002794, z: 79.397400}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 75cb17b0-7365-45ba-639b-0afedc08c975
+  Components:
+    []
+- !<SceneObject/523d4132-ef83-4fab-608e-5cecc7132fd1>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Toe_02_02SHJnt_17
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.005015, y: 0.018670, z: 0.000000}
+    Rotation: {x: 0.000024, y: 0.000034, z: 0.000018}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> eccc9935-e463-4c99-76ad-99ac7af2aad8
+  Components:
+    []
+- !<SceneObject/530b3554-8fc2-467b-5a47-c1b0c37e3623>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt.006_26
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.011304, z: 0.000000}
+    Rotation: {x: -1.331474, y: 0.035266, z: 3.034436}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/570c7561-9f19-4bb3-56d6-abcc57f33e82>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Leg_ToeSHJnt_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.039736, z: -0.000000}
+    Rotation: {x: 0.000000, y: 0.000017, z: -0.000011}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<Skin/5af96c8b-03a8-4456-7eff-b8a772321135>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  skinBones:
+    Chicken_Chest_01_01SHJnt_37: !<reference> 9b378433-8c9a-4750-77cf-9b104283db31
+    Chicken_Chest_01_02SHJnt_36: !<reference> 00b1840d-fb29-4202-4aa2-b13a937d0c9a
+    Chicken_Chest_01_03SHJnt_35: !<reference> 2553973e-835f-4526-6cc9-b7531df2f623
+    Chicken_Head_JawSHJnt_25: !<reference> 3cf8bbc6-ad39-497e-4ee9-a16b192db809
+    Chicken_MAINSHJnt_46: !<reference> 8c51ff7f-1720-4331-6ae8-06d6ba3cb7b1
+    Chicken_Neck_01_01SHJnt_34: !<reference> b7511b79-547e-411f-4aad-47bfc03de1f8
+    Chicken_Neck_01_02SHJnt.001_31: !<reference> 9ae5c488-c669-4b7f-4a3f-9a858e29a867
+    Chicken_Neck_01_02SHJnt.002_30: !<reference> 9ccca59e-d299-4f05-4183-c3b27d5e3c19
+    Chicken_Neck_01_02SHJnt.003_29: !<reference> bf57ca32-a155-43ad-7af2-2a6945219fb1
+    Chicken_Neck_01_02SHJnt.004_28: !<reference> 188adfca-aa82-4e9a-5cfd-46c872b3b9ec
+    Chicken_Neck_01_02SHJnt.005_27: !<reference> afb4ab77-7f4e-4b08-62de-ee2cf850ebc0
+    Chicken_Neck_01_02SHJnt.006_26: !<reference> 530b3554-8fc2-467b-5a47-c1b0c37e3623
+    Chicken_Neck_01_02SHJnt.007_47: !<reference> 86768f77-d8f3-44a1-4577-33cc88e50352
+    Chicken_Neck_01_02SHJnt_33: !<reference> 9b3bd14f-865e-46dd-6ec3-d85573b40419
+    Chicken_ROOTSHJnt.001_45: !<reference> adeaa6e2-b81f-499f-48bc-63122caa4fe9
+    Chicken_ROOTSHJnt.002_41: !<reference> b0b9643e-8239-4bbf-7f0a-f9dafb5bfbbb
+    Chicken_ROOTSHJnt.003_40: !<reference> 7f58e259-dcb7-4864-7552-3587802dd4fa
+    Chicken_ROOTSHJnt.004_39: !<reference> e1f9a4ce-5642-4165-4f7b-c78a9ab70f6a
+    Chicken_ROOTSHJnt.006_44: !<reference> 2d7eeb6a-0caa-4c19-460f-e518027df076
+    Chicken_ROOTSHJnt.008_43: !<reference> 46698524-008c-410b-7e31-8f2b0469a8ee
+    Chicken_ROOTSHJnt.009_42: !<reference> 4c3fe653-2c73-4d36-4e65-5cc1427ba650
+    Chicken_ROOTSHJnt_38: !<reference> a7dac849-67be-43e4-650a-7e062cc9f19d
+    Chicken_Tail_01_01SHJnt.001_23: !<reference> 75cb17b0-7365-45ba-639b-0afedc08c975
+    Chicken_Tail_01_01SHJnt.002_22: !<reference> c9edfd90-4526-488f-64bd-c11cff25d4e2
+    Chicken_Tail_01_01SHJnt_24: !<reference> 509f16f6-f56e-433b-6d8b-57f576cc7a30
+    Chicken_head_32: !<reference> 9d3c5ee2-9ea1-427e-6ab3-183a0057c135
+    Chicken_l_Leg_AnkleSHJnt_8: !<reference> b60bbe43-c362-4032-69d9-a39a3d956b20
+    Chicken_l_Leg_BallSHJnt_1: !<reference> 4ce13d47-bded-47f3-4c8e-e0c0591de07b
+    Chicken_l_Leg_HipSHJnt_10: !<reference> def6ef97-1735-487f-4287-bd13ab07b0be
+    Chicken_l_Leg_KneeSHJnt_9: !<reference> 4c565ec6-c759-4fd8-68c3-dcc84e9fbbc5
+    Chicken_l_Leg_ToeSHJnt_0: !<reference> 570c7561-9f19-4bb3-56d6-abcc57f33e82
+    Chicken_l_Toe_01_01SHJnt_4: !<reference> de80b09d-0c18-4a9b-7ca0-8df28b58ba63
+    Chicken_l_Toe_01_02SHJnt_3: !<reference> 6f9d3821-3a42-4ade-7d41-379b5ac3e282
+    Chicken_l_Toe_01_03SHJnt_2: !<reference> 0e0bfcc4-a18a-4db9-7399-e456a329989e
+    Chicken_l_Toe_02_01SHJnt_7: !<reference> 772d4885-3d9a-45ff-6a5a-e660406d91f3
+    Chicken_l_Toe_02_02SHJnt_6: !<reference> 5d2baabd-47ab-4272-7fe5-ff280f4e0dd3
+    Chicken_l_Toe_02_03SHJnt_5: !<reference> 6e254a1d-9d44-4ad2-6508-e77373a69efd
+    Chicken_r_Leg_AnkleSHJnt_19: !<reference> 0b667ccc-4e6a-485d-4cec-53c24d8150d5
+    Chicken_r_Leg_BallSHJnt_12: !<reference> 26f3f496-8633-4645-5a3a-3a94873d4b79
+    Chicken_r_Leg_HipSHJnt_21: !<reference> 1e263ae1-b3cc-42a8-77c6-81a95959787a
+    Chicken_r_Leg_KneeSHJnt_20: !<reference> 18d84557-c5c6-4e1a-497c-f48f1c99ef9b
+    Chicken_r_Leg_ToeSHJnt_11: !<reference> 444ee7a1-4280-49a0-492e-fed59aa326dc
+    Chicken_r_Toe_01_01SHJnt_15: !<reference> a274cc3f-37dc-41cc-4c1f-7e75fda4a958
+    Chicken_r_Toe_01_02SHJnt_14: !<reference> ea063f82-36f2-4d47-46f1-391a815793c8
+    Chicken_r_Toe_01_03SHJnt_13: !<reference> 97e38ce4-c36b-4d0a-7f1c-c86b9ad8226f
+    Chicken_r_Toe_02_01SHJnt_18: !<reference> 118ea1bf-99d1-4cc4-59ca-ec17e2715ed8
+    Chicken_r_Toe_02_02SHJnt_17: !<reference> 523d4132-ef83-4fab-608e-5cecc7132fd1
+    Chicken_r_Toe_02_03SHJnt_16: !<reference> eccc9935-e463-4c99-76ad-99ac7af2aad8
+    GLTF_SceneRootNode: !<reference> 1b80a6b7-bc25-4cfb-5604-953282e4fa7a
+    GLTF_created_0: !<reference> 8c16b61d-d156-4ce7-5dae-7400022f29e5
+    GLTF_created_0_rootJoint: !<reference> 188f4aef-52b1-44c2-6fea-9a4a73c6b5ae
+    Object_10: !<reference> eed959cf-c73e-4cc6-5fd9-16fdc13b22ae
+    Object_4_48: !<reference> 82393a10-8cad-4c6f-5457-f2cfdeb2c51e
+    Object_7: !<reference> 7a4ea522-ad01-4d9f-5d03-db00e019d5c9
+    Object_9: !<reference> aa259620-33ae-41cf-550c-7449c8edc3aa
+    Sketchfab_model: !<reference> 2971a027-5fa2-425a-5312-d1492819d2c5
+    Sphere.001_49: !<reference> 6c51fceb-e412-4142-739a-eb7d6912ab07
+    root: !<reference> 909a9e0f-2944-481e-7a4f-3ca3ab94883e
+    turkey_50: !<reference> 32dee7db-e3b4-42bc-53d5-33d41a9c46bc
+- !<SceneObject/5d2baabd-47ab-4272-7fe5-ff280f4e0dd3>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Toe_02_02SHJnt_6
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.006196, y: 0.023066, z: -0.000000}
+    Rotation: {x: -0.000010, y: 0.000011, z: -0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6e254a1d-9d44-4ad2-6508-e77373a69efd
+  Components:
+    []
+- !<RenderMeshVisual/5dde5adf-43d0-4b13-4c14-6bc23b855fdc>
+  PrefabRemaps:
+    []
+  Name: Object_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c07b5582-ab9e-4622-91b3-4214c75596cc
+  Mesh: !<reference> ba3482aa-e4b6-4176-85cb-9c68ed569534
+  Skin: !<reference> 5af96c8b-03a8-4456-7eff-b8a772321135
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/6c51fceb-e412-4142-739a-eb7d6912ab07>
+  PrefabRemaps:
+    []
+  Name: Sphere.001_49
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/6e254a1d-9d44-4ad2-6508-e77373a69efd>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Toe_02_03SHJnt_5
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.024240, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000036, z: -0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/6f9d3821-3a42-4ade-7d41-379b5ac3e282>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Toe_01_02SHJnt_3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.006196, y: 0.027770, z: 0.000072}
+    Rotation: {x: -9.996387, y: -0.000013, z: -0.000016}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0e0bfcc4-a18a-4db9-7399-e456a329989e
+  Components:
+    []
+- !<SceneObject/75cb17b0-7365-45ba-639b-0afedc08c975>
+  PrefabRemaps:
+    []
+  Name: Chicken_Tail_01_01SHJnt.001_23
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.074660, z: -0.000000}
+    Rotation: {x: -0.000055, y: 0.000109, z: 125.110260}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> c9edfd90-4526-488f-64bd-c11cff25d4e2
+  Components:
+    []
+- !<SceneObject/772d4885-3d9a-45ff-6a5a-e660406d91f3>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Toe_02_01SHJnt_7
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.014101, y: 0.014993, z: -0.008645}
+    Rotation: {x: -45.595604, y: -0.000019, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5d2baabd-47ab-4272-7fe5-ff280f4e0dd3
+  Components:
+    []
+- !<SceneObject/7a4ea522-ad01-4d9f-5d03-db00e019d5c9>
+  PrefabRemaps:
+    []
+  Name: Object_7
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 947ccd9e-7a6c-48d1-5bcc-beccd0232634
+- !<SceneObject/7f58e259-dcb7-4864-7552-3587802dd4fa>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt.003_40
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.074983, z: 0.000000}
+    Rotation: {x: -1.050128, y: -0.036917, z: -4.026818}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e1f9a4ce-5642-4165-4f7b-c78a9ab70f6a
+  Components:
+    []
+- !<AnimationPlayer/80429861-c33a-46ac-7ac9-57b46090db6b>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 7451ce70-9c3c-41a9-bbee-87cbec50b361
+      Name: Animation
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 7.375000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<SceneObject/82393a10-8cad-4c6f-5457-f2cfdeb2c51e>
+  PrefabRemaps:
+    []
+  Name: Object_4_48
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/83d13159-2348-416e-51d6-6525d5ca7b2d>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2971a027-5fa2-425a-5312-d1492819d2c5
+  Components:
+    - !<own> 80429861-c33a-46ac-7ac9-57b46090db6b
+    - !<own> 5af96c8b-03a8-4456-7eff-b8a772321135
+- !<SceneObject/86768f77-d8f3-44a1-4577-33cc88e50352>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt.007_47
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.018401, y: 0.372516, z: 0.238428}
+    Rotation: {x: 83.076431, y: -1.862244, z: 106.328056}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/8c16b61d-d156-4ce7-5dae-7400022f29e5>
+  PrefabRemaps:
+    []
+  Name: GLTF_created_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 188f4aef-52b1-44c2-6fea-9a4a73c6b5ae
+    - !<own> 7a4ea522-ad01-4d9f-5d03-db00e019d5c9
+    - !<own> aa259620-33ae-41cf-550c-7449c8edc3aa
+    - !<own> eed959cf-c73e-4cc6-5fd9-16fdc13b22ae
+    - !<own> 82393a10-8cad-4c6f-5457-f2cfdeb2c51e
+    - !<own> 6c51fceb-e412-4142-739a-eb7d6912ab07
+  Components:
+    []
+- !<SceneObject/8c51ff7f-1720-4331-6ae8-06d6ba3cb7b1>
+  PrefabRemaps:
+    []
+  Name: Chicken_MAINSHJnt_46
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: -0.002547, y: 0.000000, z: -0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> a7dac849-67be-43e4-650a-7e062cc9f19d
+    - !<own> adeaa6e2-b81f-499f-48bc-63122caa4fe9
+  Components:
+    []
+- !<SceneObject/909a9e0f-2944-481e-7a4f-3ca3ab94883e>
+  PrefabRemaps:
+    []
+  Name: root
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1b80a6b7-bc25-4cfb-5604-953282e4fa7a
+  Components:
+    []
+- !<RenderMeshVisual/947ccd9e-7a6c-48d1-5bcc-beccd0232634>
+  PrefabRemaps:
+    []
+  Name: mesh_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8b9acf15-2b1a-4568-9939-7a76710cc608
+  Mesh: !<reference> b97e6c27-40e2-4c07-867f-a25565a78ee1
+  Skin: !<reference> 5af96c8b-03a8-4456-7eff-b8a772321135
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    Morph Target0: 0.000000
+    Morph Target1: 0.000000
+    Morph Target2: 0.000000
+- !<SceneObject/97e38ce4-c36b-4d0a-7f1c-c86b9ad8226f>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Toe_01_03SHJnt_13
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.019279, z: -0.000000}
+    Rotation: {x: -3.976499, y: -0.141077, z: 1.730577}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/9ae5c488-c669-4b7f-4a3f-9a858e29a867>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt.001_31
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000023, y: -0.000080, z: 5.848280}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9ccca59e-d299-4f05-4183-c3b27d5e3c19
+  Components:
+    []
+- !<SceneObject/9b378433-8c9a-4750-77cf-9b104283db31>
+  PrefabRemaps:
+    []
+  Name: Chicken_Chest_01_01SHJnt_37
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.048283, y: 0.114502, z: 0.000000}
+    Rotation: {x: 179.998978, y: 0.002619, z: 68.532532}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 00b1840d-fb29-4202-4aa2-b13a937d0c9a
+  Components:
+    []
+- !<SceneObject/9b3bd14f-865e-46dd-6ec3-d85573b40419>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt_33
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.061359, z: -0.000000}
+    Rotation: {x: -0.000040, y: 0.000039, z: -12.660789}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9d3c5ee2-9ea1-427e-6ab3-183a0057c135
+  Components:
+    []
+- !<SceneObject/9ccca59e-d299-4f05-4183-c3b27d5e3c19>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt.002_30
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.052900, z: -0.000000}
+    Rotation: {x: -70.868500, y: -36.502922, z: -11.735368}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> bf57ca32-a155-43ad-7af2-2a6945219fb1
+  Components:
+    []
+- !<SceneObject/9d3c5ee2-9ea1-427e-6ab3-183a0057c135>
+  PrefabRemaps:
+    []
+  Name: Chicken_head_32
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.058050, z: 0.000000}
+    Rotation: {x: -0.000136, y: -0.000037, z: -85.596291}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3cf8bbc6-ad39-497e-4ee9-a16b192db809
+    - !<own> 9ae5c488-c669-4b7f-4a3f-9a858e29a867
+  Components:
+    []
+- !<SceneObject/a274cc3f-37dc-41cc-4c1f-7e75fda4a958>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Toe_01_01SHJnt_15
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.011414, y: 0.011938, z: -0.005934}
+    Rotation: {x: -140.883835, y: 0.000117, z: -180.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ea063f82-36f2-4d47-46f1-391a815793c8
+  Components:
+    []
+- !<SceneObject/a7dac849-67be-43e4-650a-7e062cc9f19d>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt_38
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.285631, z: -0.024912}
+    Rotation: {x: -90.000000, y: -90.000000, z: -90.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> def6ef97-1735-487f-4287-bd13ab07b0be
+    - !<own> 1e263ae1-b3cc-42a8-77c6-81a95959787a
+    - !<own> 509f16f6-f56e-433b-6d8b-57f576cc7a30
+    - !<own> 9b378433-8c9a-4750-77cf-9b104283db31
+  Components:
+    []
+- !<SceneObject/aa259620-33ae-41cf-550c-7449c8edc3aa>
+  PrefabRemaps:
+    []
+  Name: Object_9
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c38ea9a3-3323-49c4-704f-901a5fa6f194
+- !<SceneObject/adeaa6e2-b81f-499f-48bc-63122caa4fe9>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt.001_45
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.285631, z: -0.024912}
+    Rotation: {x: 71.097977, y: 0.000000, z: 0.000013}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b0b9643e-8239-4bbf-7f0a-f9dafb5bfbbb
+    - !<own> 2d7eeb6a-0caa-4c19-460f-e518027df076
+  Components:
+    []
+- !<SceneObject/aec647b9-3bd5-4436-74f8-6a2ff5fcd50e>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 83d13159-2348-416e-51d6-6525d5ca7b2d
+  Components:
+    []
+- !<SceneObject/afb4ab77-7f4e-4b08-62de-ee2cf850ebc0>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt.005_27
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.012538, z: 0.000000}
+    Rotation: {x: -7.834435, y: -1.034893, z: -15.026985}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 530b3554-8fc2-467b-5a47-c1b0c37e3623
+  Components:
+    []
+- !<SceneObject/b0b9643e-8239-4bbf-7f0a-f9dafb5bfbbb>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt.002_41
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.098164, z: -0.000000}
+    Rotation: {x: 4.739474, y: 3.684733, z: -75.714409}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7f58e259-dcb7-4864-7552-3587802dd4fa
+  Components:
+    []
+- !<SceneObject/b60bbe43-c362-4032-69d9-a39a3d956b20>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Leg_AnkleSHJnt_8
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.061598, z: -0.000000}
+    Rotation: {x: 89.999977, y: 20.806620, z: 90.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4ce13d47-bded-47f3-4c8e-e0c0591de07b
+    - !<own> de80b09d-0c18-4a9b-7ca0-8df28b58ba63
+    - !<own> 772d4885-3d9a-45ff-6a5a-e660406d91f3
+  Components:
+    []
+- !<SceneObject/b7511b79-547e-411f-4aad-47bfc03de1f8>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_01SHJnt_34
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.060185, z: -0.000000}
+    Rotation: {x: 0.000000, y: -0.000052, z: 2.702942}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9b3bd14f-865e-46dd-6ec3-d85573b40419
+  Components:
+    []
+- !<SceneObject/bf57ca32-a155-43ad-7af2-2a6945219fb1>
+  PrefabRemaps:
+    []
+  Name: Chicken_Neck_01_02SHJnt.003_29
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.018891, z: -0.000000}
+    Rotation: {x: -23.170650, y: -59.630928, z: -30.643969}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 188adfca-aa82-4e9a-5cfd-46c872b3b9ec
+  Components:
+    []
+- !<RenderMeshVisual/c38ea9a3-3323-49c4-704f-901a5fa6f194>
+  PrefabRemaps:
+    []
+  Name: Object_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50c91237-9d27-4939-a86e-d2388e96940c
+  Mesh: !<reference> 7bd6faed-6aa0-474e-b70a-1ff4add0bff4
+  Skin: !<reference> 5af96c8b-03a8-4456-7eff-b8a772321135
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c9edfd90-4526-488f-64bd-c11cff25d4e2>
+  PrefabRemaps:
+    []
+  Name: Chicken_Tail_01_01SHJnt.002_22
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.114088, z: -0.000000}
+    Rotation: {x: 0.000056, y: 0.000024, z: -46.633739}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<ObjectPrefabAssetData/ccc95123-14cc-4047-b0a0-f618d712ea39>
+  Prototype: !<ObjectOwner/ea57a834-34f0-4ad0-8990-a2d2aea8a9fc>
+    PackagePath: ""
+    objects:
+      - !<own> 0fbcb1d2-c527-4d89-5e91-387391e1bc43
+- !<SceneObject/de80b09d-0c18-4a9b-7ca0-8df28b58ba63>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Toe_01_01SHJnt_4
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.014101, y: 0.011707, z: 0.003356}
+    Rotation: {x: 41.565880, y: 0.000000, z: 0.000044}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6f9d3821-3a42-4ade-7d41-379b5ac3e282
+  Components:
+    []
+- !<SceneObject/def6ef97-1735-487f-4287-bd13ab07b0be>
+  PrefabRemaps:
+    []
+  Name: Chicken_l_Leg_HipSHJnt_10
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.006618, y: 0.119536, z: 0.041655}
+    Rotation: {x: -99.680168, y: 90.000000, z: -90.066177}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4c565ec6-c759-4fd8-68c3-dcc84e9fbbc5
+  Components:
+    []
+- !<SceneObject/e1f9a4ce-5642-4165-4f7b-c78a9ab70f6a>
+  PrefabRemaps:
+    []
+  Name: Chicken_ROOTSHJnt.004_39
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000000, y: 0.117771, z: -0.000000}
+    Rotation: {x: -9.245292, y: -3.189100, z: -37.995461}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/ea063f82-36f2-4d47-46f1-391a815793c8>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Toe_01_02SHJnt_14
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.005015, y: 0.021630, z: 0.000032}
+    Rotation: {x: -6.581642, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 97e38ce4-c36b-4d0a-7f1c-c86b9ad8226f
+  Components:
+    []
+- !<SceneObject/eccc9935-e463-4c99-76ad-99ac7af2aad8>
+  PrefabRemaps:
+    []
+  Name: Chicken_r_Toe_02_03SHJnt_16
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.019620, z: -0.000000}
+    Rotation: {x: 0.000010, y: -0.000051, z: -0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/eed959cf-c73e-4cc6-5fd9-16fdc13b22ae>
+  PrefabRemaps:
+    []
+  Name: Object_10
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5dde5adf-43d0-4b13-4c14-6bc23b855fdc

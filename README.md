@@ -4,6 +4,7 @@ A Snapchat Lens to be a turkey for Thanksgiving
 # Screenshots
 !(publish/screenshot1.jpg)
 !(publish/screenshot2.jpg)
+!(preview.mp4)
 
 # Credits for the 3D meshes
 - [chicken_suit_model](https://sketchfab.com/3d-models/chicken-suit-model-cd180cabc37c4aa7ba6fd0cd8e3d42c9)
